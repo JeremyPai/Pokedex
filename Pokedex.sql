@@ -31,7 +31,7 @@ ALTER TABLE pokemon DROP evolveName;
 DESCRIBE pokemon;
 
 /* Preserve structure of table, and delete values */
-TRUNCATE TABLE pokemon;
+/* TRUNCATE TABLE pokemon; */
 
 
 
