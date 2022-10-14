@@ -15,7 +15,7 @@ SET SQL_SAFE_UPDATES = 0;
 
 /* Create table */
 CREATE TABLE pokemon(
-	pokeindex INTEGER NOT NULL KEY,
+    pokeindex INTEGER NOT NULL KEY,
     pokename VARCHAR(25),
     height FLOAT,
     weight FLOAT
